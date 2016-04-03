@@ -1,0 +1,6 @@
+Use the up/down/left/right keys to control the snake and eat the food.
+As you eat the food the size of the snake increases.
+If the snake touches any part of it's body the game will finish.
+
+
+P.S. Some of the things like removing the previous food after eating was referred from online available source code. 
